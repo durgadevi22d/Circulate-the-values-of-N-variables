@@ -30,8 +30,7 @@ def circulate():
 ```
 
 ## Output:
-
-
+![output](/Screenshot%202024-04-09%20115909.png)
 
 ## Result:
 Thus Circulate the values of N variables are successfully executed
